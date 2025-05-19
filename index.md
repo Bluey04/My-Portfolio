@@ -14,8 +14,7 @@ I'm a FiveM developer who creates high-performance, custom systems for RP server
 
 ---
 
-🌐 Pacific Networks – Full Server Development
-Tech: QBCore, Lua, MySQL, HTML/CSS/JS, oxmysql, ox_lib, Discord API, txAdmin
+🌐 Pacific Networks – Full Server Development : QBCore, Lua, MySQL, HTML/CSS/JS, oxmysql, ox_lib, Discord API, txAdmin
 
 Description: I am the owner and lead developer of Pacific Networks, a custom-built FiveM roleplay server. I built everything from the ground up, including core job systems, UI/NUI menus, anti-cheat protections, Discord integration, and custom roleplay features. The server is optimized for performance and player experience, with immersive scripts and minimal client-side lag.
 
